@@ -1,4 +1,4 @@
-                                                    Project Overview: Analysis of Car Sales Customer Data
+## Project Overview: Analysis of Car Sales Customer Data
 
 This project leverages SQL methodologies to extract and analyze pertinent information from the car_sales_customer.csv dataset, comprising approximately 1 million rows and a total size of 85MB. The dataset is publicly accessible via Kaggle at the following link: "https://www.kaggle.com/datasets/suraj520/car-sales-data".
 
