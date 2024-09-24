@@ -6,8 +6,13 @@ For this analysis, we utilized the DBeaver platform, which facilitates efficient
 
 Our primary objectives include:
 
-Data Exploration: Investigating the dataset's structure and identifying key variables relevant to customer behavior in car sales.
-SQL Query Implementation: Designing and executing SQL queries to extract meaningful insights and trends from the data.
-Statistical Analysis: Applying statistical techniques to interpret the results and derive actionable conclusions.
+     1. Data Exploration: Investigating the dataset's structure and identifying key variables relevant to customer 
+     behavior in car sales.
+      
+     2. SQL Query Implementation: Designing and executing SQL queries to extract meaningful insights and trends from the 
+      data.
+      
+    3.Statistical Analysis: Applying statistical techniques to interpret the results and derive actionable conclusions.
+
 Through this project, we aim to provide a comprehensive analysis of customer preferences and behaviors in the car sales market, contributing valuable insights to stakeholders in the automotive industry.
 
