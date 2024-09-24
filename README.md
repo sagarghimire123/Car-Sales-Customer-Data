@@ -1,6 +1,6 @@
                                                     Project Overview: Analysis of Car Sales Customer Data
 
-This project leverages SQL methodologies to extract and analyze pertinent information from the car_sales_customer.csv dataset, comprising approximately 1 million rows and a total size of 85MB. The dataset is publicly accessible via Kaggle at the following link: Car Sales Data.
+This project leverages SQL methodologies to extract and analyze pertinent information from the car_sales_customer.csv dataset, comprising approximately 1 million rows and a total size of 85MB. The dataset is publicly accessible via Kaggle at the following link: "https://www.kaggle.com/datasets/suraj520/car-sales-data".
 
 For this analysis, we utilized the DBeaver platform, which facilitates efficient data management and SQL query execution. DBeaver's user-friendly interface allows for seamless bulk uploads of CSV files, making it particularly suited for handling large datasets such as ours.
 
